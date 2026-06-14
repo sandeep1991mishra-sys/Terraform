@@ -1,4 +1,4 @@
-# Terraform Practice
+# Terraform Resource Deployement
 
 This repository contains my daily Terraform practice projects on Azure.
 
