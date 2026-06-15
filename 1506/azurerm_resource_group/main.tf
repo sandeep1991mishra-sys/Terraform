@@ -1,0 +1,6 @@
+resource "azurerm_resource_group" "rg-honey" {
+    for_each = var.yoyo
+    name = each.value.name
+    location = each.value.location
+  
+}
